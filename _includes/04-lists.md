@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is my favourate things 
+- Long sleep
+- Netlix 
+- Learning to rest
